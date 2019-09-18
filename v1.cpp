@@ -5,7 +5,7 @@ using namespace std;
 int main(int argc, char** argv) {
 	string a, b;
 	
-	a = "Hello ";
+	a = "Hello_";
 	b = "World!";
 	
 	cout << a + b;
